@@ -8,3 +8,6 @@ bin/
 obj
 build/
 .idea
+.buildpath
+.settings
+.project
